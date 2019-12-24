@@ -1,3 +1,11 @@
+/**
+ *	@authors Lucas Suzigan, Danilo Dias
+ *
+ *	@brief A program to read, write and edit files that contains a students class
+ * 
+ *	@bugs When edit a file, incluiding a new student, the file does not update
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
